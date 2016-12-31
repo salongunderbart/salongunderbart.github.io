@@ -533,8 +533,7 @@ ul {
   text-decoration: underline; }
 
 #footer > div:last-child {
-  margin-top: 64px;
-  opacity: 0.8; }
+  margin-top: 64px; }
 
 #footer > div:last-child p {
   font-size: 11px; }
